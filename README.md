@@ -32,5 +32,5 @@ Before you begin, ensure you have met the following requirements:
 To run the app on your local machine:
 
 Start the Expo server:
-
-npx expo start
+ ```bash
+ npx expo start
